@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"productVersion": "1.0",
+"dataUrl": "finalgame.data.unityweb",
+"wasmCodeUrl": "finalgame.wasm.code.unityweb",
+"wasmFrameworkUrl": "finalgame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
